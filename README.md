@@ -1,2 +1,2 @@
-# shoppinglist
-Zhao and  Tian 's shopping list
+# ShoppingList
+Our shoppinglist:
